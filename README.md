@@ -12,6 +12,22 @@
 
 2. n-seoul tower 객체가 이미지에 없는 경우
 
+# Usage
+1. Repository clone
+'''
+git clone https://github.com/jeonseoknam/n-tower-yolo.git
+cd n-tower-yolo
+'''
+2. Virtual environment 생성
+'''
+python3 -m venv .venv
+source .venv/bin/activate
+'''
+3. 필요 패키지 설치
+'''
+pip install -r requirements.txt
+'''
+
 # Include Packages
 - Numpy 2.2.6
 - opencv-python 4.12.0.88
