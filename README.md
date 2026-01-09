@@ -27,6 +27,23 @@ source .venv/bin/activate
 ```
 pip install -r requirements.txt
 ```
+4. 이후 Command 참조하여 프로그램 사용
+
+# Command
+1. N-Seoul Tower 존재 여부 확인
+```
+python3 main.py --input path/to/image.jpg --task presence
+```
+
+2. N-Seoul Tower 위치(좌표) 출력
+```
+python3 main.py --input path/to/image.jpg --task bbox
+```
+
+3. N-Seoul Tower 바운딩 박스 이미지까지 생성
+```
+python3 main.py --input path/to/image.jpg --task bbox --vis_output
+```
 
 # Include Packages
 - Numpy 2.2.6
