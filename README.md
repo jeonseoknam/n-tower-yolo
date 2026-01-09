@@ -8,9 +8,9 @@
 
 # Demo
 1. n-seoul tower 객체가 이미지에 있는 경우
-![n_tower_presence](assets/n_tower_presence.png)
-
 <br>
+
+2. n-seoul tower 객체가 이미지에 없는 경우
 
 # Include Packages
 - Numpy 2.2.6
