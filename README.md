@@ -10,7 +10,7 @@
 
 # Demo
 1. n-seoul tower 객체가 이미지에 있는 경우
-<img src="assets/result.jpg" alt="result" width="500" />
+<img src="assets/result.jpg" alt="result" width="300" />
 
 2. n-seoul tower 객체가 이미지에 없는 경우
 
