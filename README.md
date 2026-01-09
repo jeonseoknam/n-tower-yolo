@@ -1,6 +1,7 @@
 # N-Seoul Tower Detect program
 - 숭실대학교 컴퓨터학부 컴퓨터비전 수업 과제(송현주 교수님)
 - 자세한 내용은 report.pdf 참조
+- 규칙 기반으로 문제 해결을 시도했다면 어떤 성능이 나왔을까?(how?)
 
 # Outline
 - 입력 이미지가 입력되면, 이미지 내부에 N-Seoul Tower 객체 여부를 판단하는 프로그램 작성
