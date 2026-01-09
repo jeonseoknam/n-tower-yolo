@@ -13,6 +13,7 @@
 <img src="assets/result.jpg" alt="result" width="300" />
 
 2. n-seoul tower 객체가 이미지에 없는 경우
+<img src="assets/geunsik.png" alt="geunsik" width="300" />
 
 # Usage
 1. Repository clone
