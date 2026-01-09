@@ -7,7 +7,9 @@
 - N-Seoul Tower가 없다면 None 출력
 
 # Demo
-
+1. n-seoul tower 객체가 이미지에 있는 경우
+![Demo GIF](assets/n_tower_presence.gif)
+<br>
 
 # Include Packages
 - Numpy 2.2.6
