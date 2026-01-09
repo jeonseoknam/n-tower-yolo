@@ -11,6 +11,7 @@
 # Demo
 1. n-seoul tower 객체가 이미지에 있는 경우
 <br>
+![result](assets/result.jpg)
 
 2. n-seoul tower 객체가 이미지에 없는 경우
 
