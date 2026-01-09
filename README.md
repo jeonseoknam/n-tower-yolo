@@ -10,9 +10,13 @@
 
 # Demo
 1. n-seoul tower 객체가 이미지에 있는 경우
+- N-Seoul Tower에 바운딩 박스가 생김
+<br>
 <img src="assets/result.jpg" alt="result" width="300" />
 
 2. n-seoul tower 객체가 이미지에 없는 경우
+- 바운딩 박스가 생기지 않음
+<br>
 <img src="assets/geunsik.png" alt="geunsik" width="300" />
 
 # Usage
