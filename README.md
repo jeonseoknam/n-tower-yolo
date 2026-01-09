@@ -8,7 +8,8 @@
 
 # Demo
 1. n-seoul tower 객체가 이미지에 있는 경우
-![Demo GIF](assets/n_tower_presence.gif)
+![n_tower_presence](assets/n_tower_presence.png)
+
 <br>
 
 # Include Packages
